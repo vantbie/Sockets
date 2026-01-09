@@ -38,4 +38,4 @@ La aplicación logra estabilidad mediante dos mecanismos:
 * Cómo sincronizar procesos de lectura y escritura usando hilos.
 
 ---
-**Estado:** Finalizado ✅
+**Estado:** Finalizado ✅ 
